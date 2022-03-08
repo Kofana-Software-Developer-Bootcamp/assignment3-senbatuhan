@@ -1,0 +1,16 @@
+C:\Users\Batu\Desktop\asg3\CustomerOrderCLI\bin\Debug\net5.0\CustomerOrderCLI.exe
+C:\Users\Batu\Desktop\asg3\CustomerOrderCLI\bin\Debug\net5.0\CustomerOrderCLI.deps.json
+C:\Users\Batu\Desktop\asg3\CustomerOrderCLI\bin\Debug\net5.0\CustomerOrderCLI.runtimeconfig.json
+C:\Users\Batu\Desktop\asg3\CustomerOrderCLI\bin\Debug\net5.0\CustomerOrderCLI.runtimeconfig.dev.json
+C:\Users\Batu\Desktop\asg3\CustomerOrderCLI\bin\Debug\net5.0\CustomerOrderCLI.dll
+C:\Users\Batu\Desktop\asg3\CustomerOrderCLI\bin\Debug\net5.0\ref\CustomerOrderCLI.dll
+C:\Users\Batu\Desktop\asg3\CustomerOrderCLI\bin\Debug\net5.0\CustomerOrderCLI.pdb
+C:\Users\Batu\Desktop\asg3\CustomerOrderCLI\obj\Debug\net5.0\CustomerOrderCLI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batu\Desktop\asg3\CustomerOrderCLI\obj\Debug\net5.0\CustomerOrderCLI.AssemblyInfoInputs.cache
+C:\Users\Batu\Desktop\asg3\CustomerOrderCLI\obj\Debug\net5.0\CustomerOrderCLI.AssemblyInfo.cs
+C:\Users\Batu\Desktop\asg3\CustomerOrderCLI\obj\Debug\net5.0\CustomerOrderCLI.csproj.CoreCompileInputs.cache
+C:\Users\Batu\Desktop\asg3\CustomerOrderCLI\obj\Debug\net5.0\CustomerOrderCLI.dll
+C:\Users\Batu\Desktop\asg3\CustomerOrderCLI\obj\Debug\net5.0\ref\CustomerOrderCLI.dll
+C:\Users\Batu\Desktop\asg3\CustomerOrderCLI\obj\Debug\net5.0\CustomerOrderCLI.pdb
+C:\Users\Batu\Desktop\asg3\CustomerOrderCLI\obj\Debug\net5.0\CustomerOrderCLI.genruntimeconfig.cache
+C:\Users\Batu\Desktop\asg3\CustomerOrderCLI\obj\Debug\net5.0\CustomerOrderCLI.csproj.AssemblyReference.cache
